@@ -1,0 +1,11 @@
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\bin\Debug\Decryption.exe.config
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\bin\Debug\Decryption.exe
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\bin\Debug\Decryption.pdb
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\obj\Debug\Decryption.csproj.AssemblyReference.cache
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\obj\Debug\Decryption.csproj.SuggestedBindingRedirects.cache
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\obj\Debug\Decryption.Form1.resources
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\obj\Debug\Decryption.Properties.Resources.resources
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\obj\Debug\Decryption.csproj.GenerateResource.cache
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\obj\Debug\Decryption.csproj.CoreCompileInputs.cache
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\obj\Debug\Decryption.exe
+D:\VSApp\repos\Всякие проекты\Decryption\Decryption\Decryption\obj\Debug\Decryption.pdb
